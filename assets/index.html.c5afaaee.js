@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,b as n}from"./app.1ded8a6d.js";const o={},r=e("h2",{id:"bmm-app",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bmm-app","aria-hidden":"true"},"#"),n(" BMM App")],-1),s=[r];function _(d,i){return t(),c("div",null,s)}const l=a(o,[["render",_],["__file","index.html.vue"]]);export{l as default};
